@@ -1,0 +1,176 @@
+@media (max-width: 767px) { 
+
+    
+    .pad-left-xs{
+        padding-left: 15px
+    }
+    
+    .logo {
+    width: 220%;
+    margin-top: 25px;
+}
+    
+    .navbar{
+        margin-top: 20px
+    }
+
+    .pad-right-sm{
+        padding-right: 0px
+    }
+    
+    
+    
+    .nav li a {
+    color: #f37c00;
+    display: block;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 12px;
+        padding: 0px
+}
+    
+    
+    .banner_content p {
+    font-family: Nevis;
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+    .banner_work p {
+    text-transform: uppercase;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 8px;
+    margin-top: 10px
+}
+
+.banner_pro {}
+
+.banner_pro p {
+    text-transform: uppercase;
+    color: #f37c00;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 8px;
+    margin-top: 10px
+}
+
+    .single_port_image {
+    margin-bottom: 15px;
+}
+    
+    .footer{
+        height: 30px;
+        margin-top: 25px
+    }
+    .copyright{
+        margin-top: 50px
+    }
+
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+   
+    .mail_header {
+    text-align: center;
+}
+    .nav li a {
+    color: #f37c00;
+    display: block;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 10px;
+    padding: 10px 19px;
+    margin-top: 8px;
+}
+    .banner_content p {
+    font-family: Nevis;
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+    text-transform: uppercase;
+    line-height: 45px;
+}
+    .banner_work p {
+    text-transform: uppercase;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 10px;
+    
+}
+  .banner_pro p {
+    text-transform: uppercase;
+    color: #f37c00;
+    font-family: arial;
+    font-size: 10px;
+    margin-top: 10px;
+}
+    
+    .pad-left_sm{
+        padding-left: 0px
+    }
+    
+    .pad-right-sm{
+        padding-right: 0px
+    }
+    
+    .pad-left-img{
+        padding-left: 15px
+    }
+    
+    .single_port_image{
+        margin-top: 10px
+    }
+    
+    .contact_images img {
+    padding-right: 7%;
+    float: left;
+}
+    
+    footer{
+        position: relative;
+        min-height: 100px
+    }
+    
+    
+    .copyright {
+    margin-left:3%;
+        margin-top: 35px
+}
+    
+    .copyright p {
+    font-family: arial;
+    font-size: 11px;
+    color: #8f8f8f;
+}
+    
+   .footer_logo {
+    
+  margin-top: 40px
+}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+@media (min-width: 1200px) {
+    .nav li a {
+    color: #f37c00;
+    display: block;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 12px;
+    padding: 10px 19px;
+}
+    
+    .mail_header {
+    text-align: right;
+    padding-right: 40px;
+}
+}

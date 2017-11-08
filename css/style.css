@@ -1,0 +1,294 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+@font-face {
+    font-family: Nevis;
+    src: url(../fonts/nevis.ttf);
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right
+}
+
+.pad-left {
+    padding-left: 0px
+}
+
+
+
+.header {}
+
+.mail_header {
+    text-align: center;
+   
+}
+
+.mail_header a {
+    color: #999898;
+    font-family: arial;
+    font-size: 13px;
+}
+
+.logo {}
+
+.navbar {}
+
+.navbar-toggle {
+    background: #ddd;
+
+}
+
+.icon-bar{
+    background: black
+}
+
+.nav li {}
+
+.nav li a {
+    color: #f37c00;
+    display: block;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 12px;
+    padding: 10px 8px;
+}
+
+.nav li a:hover {
+    background: none;
+    color: black
+}
+
+.icon-bar {
+    color: black;
+}
+
+#banner {
+    min-height: 400px;
+    margin-top: 50px
+}
+
+.main_banner {
+    min-height: 380px;
+    background-color: #f37c00;
+    position: relative;
+
+}
+
+.banner_content {
+    margin-top: 25px
+}
+
+.banner_content p {
+    font-family: Nevis;
+    font-weight: bold;
+    font-size: 85px;
+    color: white;
+    text-transform: uppercase;
+    line-height: 80px
+}
+
+.banner_span {
+    background: #090909;
+    min-height: 45px;
+    margin-top: 25px
+}
+
+.banner_work {}
+
+.banner_work p {
+    text-transform: uppercase;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px
+}
+
+.banner_pro {}
+
+.banner_pro p {
+    text-transform: uppercase;
+    color: #f37c00;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px
+}
+
+.banner_images {
+
+    min-height: 380px
+}
+
+.slider1 {
+    position: absolute;
+    right: 24%;
+    bottom: 0%;
+
+}
+
+.slider2 {
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
+
+#about {
+    min-height: 250px;
+
+}
+
+.about_title {}
+
+.about_title h3 {
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.about_title span {
+    display: block;
+    background: black;
+    min-height: 5px
+}
+
+.about_content {}
+
+.about_content p {
+    font-family: arial;
+    font-size: 12px;
+    color: #5d5d5d;
+    margin-top: 10px;
+}
+
+.about_content span {
+    color: #F37C00;
+    text-transform: uppercase;
+}
+
+.italic {
+    color: #F37C00;
+    text-transform: uppercase;
+    font-style: italic
+}
+
+#portfolio {
+    min-height: 200px
+}
+
+.main_portfolio {
+    min-height: 170px;
+    margin-top: 25px
+}
+
+.portfolio_title {}
+
+.portfolio_title h3 {
+    font-family: arial;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold
+}
+
+.portfolio_image {}
+
+.single_port_image {}
+
+
+
+
+
+
+.main_update {
+    min-height: 150px;
+    margin-top: 25px
+}
+
+.blog_update_title {}
+
+.blog_update_title h3 {
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.blog_update_content {}
+
+.blog_update_content p {
+    font-family: arial;
+    font-size: 12px;
+    color: #5d5d5d;
+    margin-top: 10px;
+}
+
+.contact {}
+
+.contact_images {}
+
+.contact_images img {
+    padding-right: 9%;
+    float: left
+}
+
+.footer {
+    min-height: 120px;
+    background-color: #E2E2E2;
+     position: relative
+}
+
+.footer_menu {
+    margin-top: 20px;
+}
+
+.footer_menu ul {
+    list-style: none
+}
+
+.footer_menu ul li {
+    float: left
+}
+
+.footer_menu ul li a {
+    display: block;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 12px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    color: #8f8f8f;
+
+}
+
+.footer_lo_cop {
+    min-height: 80px;
+   
+}
+
+.copyright {
+    margin-left:6%
+}
+
+.copyright p {
+    font-family: arial;
+    font-size: 12px;
+    color: #8f8f8f;
+}
+
+.footer_logo {
+    position: absolute;
+    right: 42%;
+    top: -30px;
+}
+
+.footer_logo img {}
+
+
